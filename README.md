@@ -7,7 +7,7 @@ An update of dr.Sybren's "Rendering from 'all' angles" script from the Scripting
 Change all attributes of every text strip in a given track (useful for batch-editing video subtitles). 
 ## Shading and Texturing
 ### Color palette from 2D image
-Apply the colors of a 2D image to the materials of a 3D object. Reccommended image size does not exceed ~256px on largest dimension.
+Apply the colors of a 2D image to the materials of a 3D object.
 
 #### HSL method for complex images with many colors
 The pixels of a small image are converted to HSV color space for grouping according to hue. The HSV values are averaged for each hue group. Hue groups with above average S or V values see those values boosted, and vice versa.
