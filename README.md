@@ -10,7 +10,7 @@ Change all attributes of every text strip in a given track (useful for batch-edi
 Apply the colors of a 2D image to the materials of a 3D object.
 
 #### HSV method for complex images with many colors
-The pixels of a small image are converted to HSV color space for grouping according to hue. The HSV values are averaged for each hue group. Hue groups with above average S or V values see those values boosted, and vice versa.
+The pixels of a small (~256px) image are converted to HSV color space for grouping according to hue. The HSV values are averaged for each hue group. Hue groups with above average S or V values see those values boosted, and vice versa.
 
 <img alt="Example 1" src="https://github.com/user-attachments/assets/1fbb87aa-edc5-475d-b092-e241a89ffb52" width="49.5%">
 <img alt="Example 2" src="https://github.com/user-attachments/assets/2803da71-18dc-494c-9202-9f35ce5353bc" width="49.5%">
