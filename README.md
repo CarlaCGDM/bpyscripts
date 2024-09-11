@@ -27,3 +27,6 @@ Only the first instance of each color group is taken into account in this simple
 <img alt="Example 4" src="https://github.com/user-attachments/assets/1ba1aba9-866b-4d47-9ef2-6429367d777f" width="24.5%">
 <img alt="Example 5" src="https://github.com/user-attachments/assets/dbae187b-c704-43a9-afb6-43ca29029208" width="24.5%">
 <img alt="Example 6" src="https://github.com/user-attachments/assets/6bee63ad-e891-4d2b-a50f-ac517a644a3d" width="24.5%">
+
+## Animation
+### Replicating 3Blue1Brown's 'Essence of Linear Algebra' animations in Blender
